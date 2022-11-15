@@ -15,7 +15,7 @@ body{
 
 form{
     height: 250px;
-    width: 450px;
+    width: 480px;
     background-color: white;
     display: flex;
     flex-direction: column;
